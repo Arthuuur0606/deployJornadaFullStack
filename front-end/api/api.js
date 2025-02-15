@@ -1,6 +1,5 @@
 // Fetch or Axios
 import axios from "axios";
-import "dotenv/config";
 
 // const { NODE_ENV } = process.env;
 const URL = "https://deployjornadafullstack.onrender.com";
